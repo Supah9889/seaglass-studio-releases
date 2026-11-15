@@ -1,0 +1,11 @@
+{
+    "version":  "0.1.0-beta.3",
+    "notes":  "Beta 3 is an internal signed update verification release.",
+    "pub_date":  "2026-11-15T20:20:40Z",
+    "platforms":  {
+                      "windows-x86_64":  {
+                                             "signature":  "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUUExjeC9la1lLVmY1WllCdFdaYkNrRlNRb3JwZ1c1TERXWFNtWFM1WXpCYVNaVFdrclRLTXM1SHViRVFIZU1naEIyTVdoK0F3eVRPZTNqMng4djR4WmtSVEZzKzFwMWdrPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk0NzczODMxCWZpbGU6U2VhR2xhc3MgU3R1ZGlvXzAuMS4wLWJldGEuM194NjQtc2V0dXAuZXhlCXZlcnNpb246MC4xLjAtYmV0YS4zCmZSZTJWNGFvUEpuVUVCNWI5MUw2cndkRnA4M3B1N0xoV1JkVm9nVFpnUEgyRGRDQnFOdnEzZHFqNWRsZitMV2s1aGU2M21RU2tVcm1yQ2Rkbjc0WENRPT0K",
+                                             "url":  "https://raw.githubusercontent.com/Supah9889/seaglass-studio-releases/main/beta/0.1.0-beta.3/SeaGlass%20Studio_0.1.0-beta.3_x64-setup.exe"
+                                         }
+                  }
+}
