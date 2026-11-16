@@ -1,11 +1,11 @@
 {
-    "version":  "0.1.0-beta.3",
-    "notes":  "Beta 3 is an internal signed update verification release.",
-    "pub_date":  "2026-11-15T20:20:40Z",
+    "version":  "0.1.0-beta.4",
+    "notes":  "SeaGlass Studio 0.1.0-beta.4\n\nFixed:\n- Windows close button sometimes failed to exit.\n- Unsaved-work confirmation buttons did not execute their intended actions.\n- Recursive window-close handling.\n- Application process remaining active after closing.\n- Recovery cleanup after discarding changes.\n\nImproved:\n- Save-before-exit reliability.\n- Preference persistence during shutdown.",
+    "pub_date":  "2026-11-16T03:04:39Z",
     "platforms":  {
                       "windows-x86_64":  {
-                                             "signature":  "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUUExjeC9la1lLVmY1WllCdFdaYkNrRlNRb3JwZ1c1TERXWFNtWFM1WXpCYVNaVFdrclRLTXM1SHViRVFIZU1naEIyTVdoK0F3eVRPZTNqMng4djR4WmtSVEZzKzFwMWdrPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk0NzczODMxCWZpbGU6U2VhR2xhc3MgU3R1ZGlvXzAuMS4wLWJldGEuM194NjQtc2V0dXAuZXhlCXZlcnNpb246MC4xLjAtYmV0YS4zCmZSZTJWNGFvUEpuVUVCNWI5MUw2cndkRnA4M3B1N0xoV1JkVm9nVFpnUEgyRGRDQnFOdnEzZHFqNWRsZitMV2s1aGU2M21RU2tVcm1yQ2Rkbjc0WENRPT0K",
-                                             "url":  "https://raw.githubusercontent.com/Supah9889/seaglass-studio-releases/main/beta/0.1.0-beta.3/SeaGlass%20Studio_0.1.0-beta.3_x64-setup.exe"
+                                             "signature":  "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUUExjeC9la1lLVlFPWW5TMXFRckNGK1QxUFFsWW1FY2d5bEhTb3BSTWdtUlVXZjIzTkRyWmxHLzJndWNjS0JWcVh2TUJRL016amc2K3lJdlRwU2daU3NqbnRDcFVSeWdRPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk0Nzk1ODE0CWZpbGU6U2VhR2xhc3MgU3R1ZGlvXzAuMS4wLWJldGEuNF94NjQtc2V0dXAuZXhlCXZlcnNpb246MC4xLjAtYmV0YS40CmRNUzdVZWtzODEzcGwxbkFSTmJWYnVMbERmMExjL2xTVUw2eFlGZjZEVmJlR2VmRUJ2ZzBYVzB2T0xLYWFvclNEZXpvRVR6TUp2YlkvL2REVEMveENnPT0K",
+                                             "url":  "https://raw.githubusercontent.com/Supah9889/seaglass-studio-releases/main/beta/0.1.0-beta.4/SeaGlass%20Studio_0.1.0-beta.4_x64-setup.exe"
                                          }
                   }
 }
